@@ -14,6 +14,9 @@ API/WEB APP .NET Core 3.1 / Entity Framework / Code-first
 
 > Sistema WEB API para cadastro de Produtos
 
+## :technologist: Técnologia Utilizada
+
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
