@@ -26,24 +26,23 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para criar as tabelas utilizada no projeto, siga estas etapas:
 
-Abrir miniProjeto.sln no Visual Studio 2019
-Compilar Projeto
-Ferramentas > Gerenciador de Pacotes NuGet > Console do Gerenciador de Pacotes
-executar o comando # update-database
-```
+- Abrir miniProjeto.sln no Visual Studio 2019
+- Compilar Projeto
+- Ferramentas > Gerenciador de Pacotes NuGet > Console do Gerenciador de Pacotes
+- executar o comando **update-database**
 
+```
 ## ☕ Usando o mineProjeto
 
 Para usar o miniProjeto, siga estas etapas:
 
 ```
-Com o Visual Studio 2019 aberto:
-Clicar em:
-Depurar > Iniciar Depuração
+Com o miniProjeto aberto no Visual Studio 2019:
+- Clicar em: **Depurar > Iniciar Depuração**
 
 ou
 
-Clicar na tecla F5 com o projeto/solução já aberto
+Clicar na tecla **F5** com o projeto/solução já aberto
 
 ```
 Abrirá uma pagina WEB de seu navegador padrão com a execução do miniProjeto para cadastro de produtos.
