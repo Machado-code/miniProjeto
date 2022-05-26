@@ -36,16 +36,11 @@ Para criar as tabelas utilizada no projeto, siga estas etapas:
 
 Para usar o miniProjeto, siga estas etapas:
 
-```
 Com o miniProjeto aberto no Visual Studio 2019:
 - Clicar em: **Depurar > Iniciar Depuração**
-
-ou
-
-Clicar na tecla **F5** com o projeto/solução já aberto
-
-```
-Abrirá uma pagina WEB de seu navegador padrão com a execução do miniProjeto para cadastro de produtos.
+Ou
+-Clicar na tecla **F5** com o projeto/solução já aberto.
+-Abrirá uma pagina WEB de seu navegador padrão com a execução do miniProjeto para cadastro de produtos.
 
 
 ## 📫 Contribuindo
