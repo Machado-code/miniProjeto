@@ -68,7 +68,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/matheuserpacx" target="_blank">
+      <a href="https://github.com/matheus-code" target="_blank">
         <img src="https://chingizpro.github.io/portfolio/img/person.png" width="100px;"/><br>
         <sub>
           <b>Matheus Machado</b>
