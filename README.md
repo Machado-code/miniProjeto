@@ -14,7 +14,14 @@ API/WEB APP .NET Core 3.1 / Entity Framework / Code-first
 
 > Sistema WEB API para cadastro de Produtos
 
-## :technologist: Técnologia Utilizada
+## :technologist: Técnologia / Padões Utilizado
+- MVC (Model-View-Controller) utilizado para separar a arquitetura do software para facilitar a compreensão e a manutenção.
+- C#
+- WEB Api (Interface de programação de aplicação servidor/navegador)
+- .Net Core v3.1 (Framework livre e de codigo aberto)
+- EntityFramwork
+- EntityFramwork Code-First (Gera o foco no desenvolvimento da aplicação em primeiro plano, ao inves de focar na construção do banco de dados)
+
 
 
 ## 💻 Pré-requisitos
