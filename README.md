@@ -3,13 +3,13 @@ API/WEB APP .NET Core 3.1 / Entity Framework / Code-first
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Machado-code/weberpacx?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Machado-code/miniProjeto?style=for-the-badge)
 ![Version](https://img.shields.io/docker/v/Machado-code/weberpacx?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/Machado-code/weberpacx?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Machado-code/weberpacx?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Machado-code/weberpacx?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Machado-code/weberpacx?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/Machado-code/weberpacx?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Machado-code/miniProjeto?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Machado-code/miniProjeto?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Machado-code/miniProjeto?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Machado-code/miniProjeto?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/Machado-code/miniProjeto?style=for-the-badge)
 <img src="exemplo-image.png" alt="exemplo imagem">
 
 > Sistema WEB API para cadastro de Produtos
