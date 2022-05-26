@@ -31,7 +31,7 @@ Para criar as tabelas utilizada no projeto, siga estas etapas:
 - Ferramentas > Gerenciador de Pacotes NuGet > Console do Gerenciador de Pacotes
 - executar o comando **update-database**
 
-```
+
 ## ☕ Usando o mineProjeto
 
 Para usar o miniProjeto, siga estas etapas:
