@@ -34,7 +34,7 @@ namespace miniProjeto
 
             services.AddControllersWithViews();
             services.AddSwaggerGen(c => {
-                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Meu Swagger", Version = "v1" });
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "miniProjeto", Version = "v1" });
             });
         }
 
@@ -44,12 +44,6 @@ namespace miniProjeto
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-
-                app.UseSwagger();
-                app.UseSwaggerUI(opt =>
-                {
-                    opt.SwaggerEndpoint("/swagger/v1/swagger.json", "Meu Swagger v1");
-                });
             }
             else
             {
@@ -57,6 +51,13 @@ namespace miniProjeto
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+
+            app.UseSwagger();
+            app.UseSwaggerUI(opt =>
+            {
+                opt.SwaggerEndpoint("/swagger/v1/swagger.json", "miniProjeto v1");
+            });
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
