@@ -21,6 +21,7 @@ API/WEB APP .NET Core 3.1 / Entity Framework / Code-first
 - .Net Core v3.1 (Framework livre e de codigo aberto)
 - EntityFramwork
 - EntityFramwork Code-First (Gera o foco no desenvolvimento da aplicação em primeiro plano, ao inves de focar na construção do banco de dados)
+- Teste com Git Actions
 
 
 
