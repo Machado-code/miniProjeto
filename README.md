@@ -35,11 +35,12 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Configurando Base de Dados MYSQL
 
-Para criar as tabelas utilizada no projeto, siga estas etapas:
+Para criar a database/tabelas utilizada no projeto, siga estas etapas:
 
+- Ter o MYSQL Instalado em seu computador
 - Abrir miniProjeto.sln no Visual Studio 2019
-- Compilar Projeto
-- Ferramentas > Gerenciador de Pacotes NuGet > Console do Gerenciador de Pacotes
+- Compilar Projeto (Menu Compilação > Compilar Solução ou Clique com botão direito(mouse) na solução miniProjeto > Compilar)
+- Executar comando Migration ( Ferramentas > Gerenciador de Pacotes NuGet > Console do Gerenciador de Pacotes )
 - executar o comando **update-database**
 
 
